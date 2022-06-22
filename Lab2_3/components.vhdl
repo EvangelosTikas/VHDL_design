@@ -1,0 +1,26 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+package my_components is
+
+component and_gate is
+port(x, y: in std_logic;
+	z: out std_logic);
+end component;
+
+component or_gate is
+port(x, y: in std_logic;
+	z: out std_logic);
+end component;
+
+component not_gate is
+port(x: in std_logic;
+	z: out std_logic);
+end component;
+
+component and_gate3 is
+port(x, y, z: in std_logic;
+	w: out std_logic);
+end component;
+
+end my_components;

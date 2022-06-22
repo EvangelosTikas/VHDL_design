@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Modeltech_pe_edu_10.4a/Lab2_3
+Eand_gate
+Z1 w1650643290
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate.vhdl
+Z5 FC:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate.vhdl
+l0
+L5
+Vng0kf:SOUIcNkQMR>CbRG0
+!s100 j;n2]?Yi]SClJ`OW=94z11
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1650646073
+!i10b 1
+Z8 !s108 1650646073.000000
+Z9 !s90 -reportprogress|300|-work|work|C:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate.vhdl|
+Z10 !s107 C:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate.vhdl|
+!i113 1
+Z11 o-work work -O0
+Z12 tExplicit 1
+Abehv_and
+R2
+R3
+DEx4 work 8 and_gate 0 22 ng0kf:SOUIcNkQMR>CbRG0
+l11
+L10
+VAPUJFXDADWz`]8mm`dici0
+!s100 kN9L[W5aooWDS@83Ik^Ym3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_gate3
+w1650645816
+R2
+R3
+R0
+8C:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate3.vhdl
+FC:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate3.vhdl
+l0
+L5
+VEd>P>D@IGQD1@9Nk7`K1i3
+!s100 caMhTQSG?FcRJa7Ig^8]12
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|C:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate3.vhdl|
+!s107 C:/Modeltech_pe_edu_10.4a/Lab2_3/and_gate3.vhdl|
+!i113 1
+R11
+R12
+Pmy_components
+R2
+R3
+w1650646069
+R0
+8C:/Modeltech_pe_edu_10.4a/Lab2_3/components.vhdl
+FC:/Modeltech_pe_edu_10.4a/Lab2_3/components.vhdl
+l0
+L4
+V=o<TH>Md<8ZoiP7k_A`i:1
+!s100 =Ok0OF2]hW6ne=ZZz]dLL0
+R6
+32
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-work|work|C:/Modeltech_pe_edu_10.4a/Lab2_3/components.vhdl|
+!s107 C:/Modeltech_pe_edu_10.4a/Lab2_3/components.vhdl|
+!i113 1
+R11
+R12
+Emy_project
+Z13 w1650645964
+Z14 DPx4 work 13 my_components 0 22 =o<TH>Md<8ZoiP7k_A`i:1
+R2
+R3
+R0
+Z15 8C:/Modeltech_pe_edu_10.4a/Lab2_3/Exercise3.vhdl
+Z16 FC:/Modeltech_pe_edu_10.4a/Lab2_3/Exercise3.vhdl
+l0
+L5
+V8o3Dd7MT`Z]d;5o3beeCL0
+!s100 6R5>dFmJJMa`h9h^H0UEo3
+R6
+32
+Z17 !s110 1650646076
+!i10b 1
+Z18 !s108 1650646075.000000
+Z19 !s90 -reportprogress|300|-work|work|C:/Modeltech_pe_edu_10.4a/Lab2_3/Exercise3.vhdl|
+Z20 !s107 C:/Modeltech_pe_edu_10.4a/Lab2_3/Exercise3.vhdl|
+!i113 1
+R11
+R12
+Abehv_pr
+R14
+R2
+R3
+Z21 DEx4 work 10 my_project 0 22 8o3Dd7MT`Z]d;5o3beeCL0
+l21
+L10
+Z22 VDN^?XaL>`N5I]U<cY;<NS1
+Z23 !s100 2l<cS@`i9@igEHgAS1F4K2
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Enot_gate
+Z24 w1650643391
+R2
+R3
+R0
+Z25 8C:/Modeltech_pe_edu_10.4a/Lab2_3/not_gate.vhdl
+Z26 FC:/Modeltech_pe_edu_10.4a/Lab2_3/not_gate.vhdl
+l0
+L5
+Vki]ihBL3T7VPhDBz1OeII0
+!s100 @ANEfOYB;PO]gBP`[n[hg0
+R6
+32
+Z27 !s110 1650646074
+!i10b 1
+Z28 !s108 1650646074.000000
+Z29 !s90 -reportprogress|300|-work|work|C:/Modeltech_pe_edu_10.4a/Lab2_3/not_gate.vhdl|
+Z30 !s107 C:/Modeltech_pe_edu_10.4a/Lab2_3/not_gate.vhdl|
+!i113 1
+R11
+R12
+Abehv_not
+R2
+R3
+DEx4 work 8 not_gate 0 22 ki]ihBL3T7VPhDBz1OeII0
+l10
+L9
+Vchz@i17[UkVPK<9B10Uem1
+!s100 71T:ClN0NGCi];biN94030
+R6
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R11
+R12
+Eor_gate
+Z31 w1650643315
+R2
+R3
+R0
+Z32 8C:/Modeltech_pe_edu_10.4a/Lab2_3/or_gate.vhdl
+Z33 FC:/Modeltech_pe_edu_10.4a/Lab2_3/or_gate.vhdl
+l0
+L5
+V?Ol12lGOn@^Y^mY^U?mO>1
+!s100 LK[00<kgY;F?KVIh=`PDA0
+R6
+32
+R27
+!i10b 1
+R28
+Z34 !s90 -reportprogress|300|-work|work|C:/Modeltech_pe_edu_10.4a/Lab2_3/or_gate.vhdl|
+Z35 !s107 C:/Modeltech_pe_edu_10.4a/Lab2_3/or_gate.vhdl|
+!i113 1
+R11
+R12
+Abehv_or
+R2
+R3
+DEx4 work 7 or_gate 0 22 ?Ol12lGOn@^Y^mY^U?mO>1
+l10
+L9
+VMICj7Ha9SDfjH3OFViFHe3
+!s100 cD6I3nzM05gXnFoL1UC[:1
+R6
+32
+R27
+!i10b 1
+R28
+R34
+R35
+!i113 1
+R11
+R12
